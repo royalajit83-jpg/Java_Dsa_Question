@@ -6,6 +6,7 @@ public class StringRev {
            st = st + str.charAt(i);
         }
 
-        System.out.println(st+" : "+" reverse string");
+        System.out.println(st+" : "+" reverse " +
+                "string");
     }
 }
